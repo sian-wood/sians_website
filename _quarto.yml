@@ -4,9 +4,9 @@ project:
   resources: files
 
 website:
-  title: "Name Surname"
+  title: "Sian Wood"
   favicon: logo.png
-  #site-url: https://github.com/jnienk/jns-quarto
+  site-url: https://github.com/sian-wood/sians_website
   navbar:
     background: primary
     search: true
@@ -26,7 +26,7 @@ website:
         href: https://github.com/      
 
 body-footer: | 
-  Copyright:  Name Surname, 2025
+  Copyright:  Sian Wood, 2025
 
 date-format: "D MMMM YYYY"
 

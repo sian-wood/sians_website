@@ -6,16 +6,16 @@ title: "Education"
 
 | Year | Degree | Institution |
 |:-----------------------|:-----------------------|:-----------------------|
-| XXX | PhD | University, Country |
-| XXX | MSc  | University, Country |
-| XXX | XXX | University, Country |
+| 2026 | MSc in Biostatistics | University of Cape Town, South Africa |
+| 2024 | Hons in Statistics and Data Science| University of Cape Town, South Africa |
+| 2023 | BSc in Applied Statistics, Computer Science and Quantitative Biology | University of Cape Town, South Africa |
 
-## Positions
+<!-- ## Positions -->
 
-| Year | Position | Institution |
-|:-----------------------|:-----------------------|:-----------------------|
-| XXX - current | Level | Institution |
-| XXX - XXX | Level | Institution |
+<!-- | Year | Position | Institution | -->
+<!-- |:-----------------------|:-----------------------|:-----------------------| -->
+<!-- | XXX - current | Level | Institution | -->
+<!-- | XXX - XXX | Level | Institution | -->
 
 
 ## Awards

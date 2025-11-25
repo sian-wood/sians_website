@@ -1,31 +1,33 @@
 ---
-title: "Initial Surname"
+title: "S Wood"
 comments: false
-image: profile.png
+image: dp.png
 about:
   id: hero-heading
   template: jolla
-  image: profile.png
+  image: dp.png
   image-width: 15em
   image-shape: round
   links:
     - icon: envelope
-      href: mailto:surname@web.ac.za
+      href: sianewood@gmail.com
     - icon: github
-      href: https://github.com/
-    - text: scholar
-      href: https://scholar.google.com/
-    - text: orcid
-      href: https://orcid.org/
+      href: https://github.com/sian-wood
+    # - text: scholar
+    #   href: https://scholar.google.com/
+    # - text: orcid
+    #   href: https://orcid.org/
     - icon: linkedin
-      href: https://www.linkedin.com/
+      href: www.linkedin.com/in/sian-wood
+
 ---
 
 ::: {#hero-heading}
+I am a passionate, hardworking student with a love for exploring the applications of my skills in statistics. I have a Bachelor of Science Honours in Statistical Sciences in the first class from the University of Cape Town, and am currently working on my MSc in Biostatistics, aiming to graduate by December 2026.
 
-Initial Surname is from the well-known establishment of the University of Academia in the land of Statistics.
+My love for learning has spilled over into a love for teaching, particularly in the field of mathematics. I have been tutoring regularly for over two years, with students ranging from Grade 5 to their first year of university. This has enhanced my ability to explain concepts to individuals with varying levels of background knowledge. This job has also built my skills in time management, organisation and client communication.
 
-Initial has served on various committees.
+I have been lucky enough to work as a research assistant in UCT’s Paleobiology lab over a number of university holidays, allowing me to work alongside experienced researchers. This developed my problem-solving skills, particularly when my work overlapped with Covid-19 lockdowns and I was alone in the lab.
 
-Initial is an expert in websites in Quarto.
+As I continue my studies, I am looking to connect with peers and industry professionals, as well as keeping my eyes peeled for any exciting internship opportunities that are out there. I hope to expand my knowledge base, not just in the academic sector, but also the commercial sector over the next few years.
 :::
